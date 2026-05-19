@@ -1,19 +1,52 @@
+# 👨‍💻 Portfolio – Bonsomi Manassé
+
+## 📌 Description
+Ce projet est mon portfolio personnel en ligne, conçu pour présenter mon profil de développeur Full-Stack, mes compétences techniques ainsi que mes différents projets réalisés.
+
+L’objectif est de centraliser mes réalisations dans une interface moderne, accessible et professionnelle afin de faciliter la présentation de mon travail aux recruteurs, clients et collaborateurs.
 
 ---
 
-## 🚀 Prochaine étape (très importante)
+## 🎯 Objectifs du projet
 
-On peut maintenant passer au niveau supérieur :
-
-### 🔥 Je peux t’aider à :
-- uniformiser **TOUS tes READMEs**
-- créer un **README principal GitHub ultra pro**
-- ajouter des badges dynamiques (stars, commits, visitors)
-- transformer ton GitHub en **CV automatique recrutable**
-- organiser tes 20+ projets comme un **portfolio d’ingénieur senior**
+- Présenter mon profil professionnel de manière claire et moderne
+- Mettre en avant mes compétences en développement logiciel
+- Centraliser mes projets (Web, Mobile, IA, Data Science)
+- Faciliter le contact professionnel et les opportunités
+- Construire une identité digitale forte en tant que développeur
 
 ---
 
-👉 Envoie-moi le prochain projet ou dis :
-**“on améliore tout mon GitHub”** 👍
-::contentReference[oaicite:0]{index=0}
+## ⚙️ Fonctionnalités
+
+- 🧑‍💻 Présentation personnelle (About Me)
+- 🛠️ Section compétences techniques
+- 📂 Liste de projets avec descriptions
+- 📱 Design responsive (mobile & desktop)
+- 📬 Section contact
+- 🌐 Liens vers GitHub, LinkedIn et email
+- 🎨 Interface moderne et structurée
+
+---
+
+## 🧠 Technologies utilisées
+
+- HTML5
+- CSS3
+- JavaScript
+- (Optionnel selon version : React / Bootstrap / Tailwind)
+- Git & GitHub pour le versioning
+
+---
+
+## 🚀 Installation et exécution
+
+```bash
+# Cloner le projet
+git clone https://github.com/manassebonsomi/portfolio-manasse-bonsomi
+
+# Entrer dans le dossier
+cd portfolio-manasse-bonsomi
+
+# Ouvrir le projet
+ouvrir index.html dans un navigateur
